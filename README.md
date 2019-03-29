@@ -1,0 +1,2 @@
+# ALLTHENEWS
+News Scraper Project
